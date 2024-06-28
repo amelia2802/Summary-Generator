@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    justify-content: space-evenly;
+    height: 100vh;
+    margin: 0;
+    background-color: #F3E6E8;
+}
+
+.input-field,.summary{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+label{
+    font-size: 1.3rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    color: #6C33A3;
+}
+
+#query{
+    width: 35rem;
+    max-width: 100%;
+    height: 15rem;
+    padding: 1rem ;
+}
+
+#response-container{
+    width: auto;
+    height: 100%;
+    line-height: 21px;
+    background-color:#F3E6E8 ;
+    padding: 1rem 2rem;
+    border: none;
+}
+
+#search-response{
+    width: max-content;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 13px;
+    background: linear-gradient(75deg,#FFA69E,#861657);
+    color: #fff;
+    font-size: 1.2rem;
+}

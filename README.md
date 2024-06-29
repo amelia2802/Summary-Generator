@@ -1,19 +1,31 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Create a Summary Generator App with Mistral AI
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This is a solution to the AWSGenAI Bootcamp's Day 2 workshop task.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Table of contents
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [Author](#author)
 
-Happy Coding!
+
+## Overview
+
+### The challenge
+
+Learn: Go through the suggested materials and any additional resources you find useful.
+
+Create: Work on a mini-project, write a detailed blog post, or share your insights about neural networks and generative models.
+
+### Screenshot
+![Screenshot 2024-06-29 193146](https://github.com/amelia2802/Summary-Generator/assets/49182604/db1c7296-ecad-4db1-802c-f52edaaae303)
+
+![Screenshot 2024-06-29 190718](https://github.com/amelia2802/Summary-Generator/assets/49182604/9831c9d1-bd3e-4e21-b132-168635e426ef)
+
+
+
+## Author
+
+- Website - [Amelia D.](https://ameliadutta.netlify.app/)
+
